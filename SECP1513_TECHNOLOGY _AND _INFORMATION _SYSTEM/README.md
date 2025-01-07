@@ -3,5 +3,8 @@
 In PC assemble, I have hands on opportunity to view hardwares in PC such as CPU fan,sata cable,power supply,ram,screw and opening casing as well as assembling hardwares in PC.In this courses,I have a good introduction to 6 components of information systems which are software,hardware,users,data,process and network.
 We also have industry talks and industry visit.In RunCloud talk,Designing Success from Graphic Multimedia to Leading Project talk, Preparing for Entrepreneurship in IT talk as well as industry visit to UTM Digital,I understand more skills and tips required by students before they enter the workforce.The most impresssed me is the CelcomDigi talk because I know metaverse which is absolutely interesting and able to bring advantages to people.Most of the activities during this courses such as doing design thinking, ;resentation and completing assignment are the group actvities, I  realize the importantce of communication in distributing the tasks.I think it is better if Dr can send the pdf file ealier and distribute which group presents which part and we can have more time to prepare it well.
 
-##Design Thinking
+
+
+
+##  Design Thinking
 [Video](https://drive.google.com/file/d/1H3ohpFpJz6KavEGv4b81e-vnLT5xpKOS/view?usp=drivesdk )
