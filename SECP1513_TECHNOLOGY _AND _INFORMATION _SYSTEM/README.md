@@ -7,7 +7,7 @@ We also have industry talks and industry visit.In RunCloud talk,Designing Succes
 
 
 ##  Design Thinking
-[Video](https://drive.google.com/file/d/1H3ohpFpJz6KavEGv4b81e-vnLT5xpKOS/view?usp=drivesdk )
+[Video](https://youtu.be/-T7p3FxXtSc?si=y5yG4c_UmInLa_j8 )
 
 ## Industry Visit
 [Video](https://drive.google.com/file/d/1H3ohpFpJz6KavEGv4b81e-vnLT5xpKOS/view?usp=drivesdk )
