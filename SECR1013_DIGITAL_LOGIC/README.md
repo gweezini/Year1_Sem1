@@ -12,3 +12,4 @@ These are mocules of Digital Logic:
 8.Counters  
 For chapter 3 until chapter 6,I learn combinational circuit while chapter 7 to seven 8,I learn sequencetial circuit.
 All of these are the bridges of software and hardware.
+*
